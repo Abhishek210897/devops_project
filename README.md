@@ -1,2 +1,2 @@
-# devops_project
-This repo will have all the study material for Devops
+# react_django_demo_app
+A demo app for React and Django Deployment
